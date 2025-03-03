@@ -39,7 +39,7 @@ The target of the analysis will ultimately be to discover if the US Department o
 Please see the table below for a sample of screenshots of visualizations that will be shown in the analysis: 
 | **Examples**   | **Image Preview** |
 |--------|-----------|
-| `Organization Investigated Repeatedly` | <img src="USDA_Organic_Program_Enforcement_Organization_Investigated_Repeatedly.png" width="50%"> |
+| `Organization Investigated Repeatedly` | <img src="USDA_Organic_Program_Enforcement_Organization_Investigated_Repeatedly.png" width="100%"> |
 | `Complaint Versus Multiple Outcome Correlation` | <img src="USDA_Organic_Program_Enforcement_Complaint_Versus_Multiple_Outcome_Correlation.png" width="50%"> |
 | `Negative Outcomes Over the Five Year Range` | <img src="USDA_Organic_Program_Enforcement_Negative_Outcomes_Over_Five_Year_Range.png" width="50%"> |
 | `Case Length Versus Punishment Correlation` | <img src="USDA_Organic_Program_Enforcement_Case_Length_Versus_Punishment_Correlation.png" width="50%"> |
